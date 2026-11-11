@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "LambungCare",
+    "slug": "lambungcare-gerd",
+    "version": "1.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.mad.lambungcare"
+    }
+  }
+}
